@@ -1,0 +1,599 @@
+{
+  "knowledge_graph": {
+    "nodes": {
+      "PUBCHEM.COMPOUND:586": {
+        "categories": [
+          "biolink:ChemicalOrDrugOrTreatment",
+          "biolink:ChemicalEntityOrProteinOrPolypeptide",
+          "biolink:ChemicalEntityOrGeneOrGeneProduct",
+          "biolink:PhysicalEssence",
+          "biolink:PhysicalEssenceOrOccurrent",
+          "biolink:SmallMolecule",
+          "biolink:MolecularEntity",
+          "biolink:ChemicalEntity",
+          "biolink:NamedThing",
+          "biolink:Entity"
+        ],
+        "name": "Creatine",
+        "attributes": [
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": -1.5,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "alogs"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "CHEBI_ROLE_metabolite"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "CHEBI_ROLE_biochemical_role"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 1,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "fda_labels"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "CHEBI_ROLE_drug"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "CHEBI_ROLE_mammalian_metabolite"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 0,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "lipinski"
+          },
+          {
+            "attribute_type_id": "dct:description",
+            "value": "A glycine derivative having methyl and amidino groups attached to the nitrogen.",
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "description"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "CHEBI_ROLE_human_metabolite"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 0,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "halogen"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "CHEBI_ROLE_animal_metabolite"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": "An amino acid that occurs in vertebrate tissues and in urine. In muscle tissue, creatine generally occurs as phosphocreatine. Creatine is excreted as CREATININE in the urine.",
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "mrdef"
+          },
+          {
+            "attribute_type_id": "biolink:has_count",
+            "value": 73665,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "omnicorp_article_count"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 0,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "arom_c"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 100,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "information_content"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "CHEBI_ROLE_eukaryotic_metabolite"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 2,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "hetero_sp2_c"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 5,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "o_n"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "CHEBI_ROLE_mouse_metabolite"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "CHEBI_ROLE_geroprotector"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 90.41,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "tpsa"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "CHEBI_ROLE_protective_agent"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "CHEBI_ROLE_nutraceutical"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": "CN(CC(O)=O)C(N)=N",
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "smiles"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 3,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "rgb"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "CHEBI_ROLE_pharmaceutical"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": -1.51,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "clogp"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 131.135,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "cd_molweight"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 2,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "sp3_c"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": "C4H9N3O2",
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "cd_formula"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 0,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "sp_c"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 3,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "oh_nh"
+          },
+          {
+            "attribute_type_id": "biolink:same_as",
+            "value": [
+              "UMLS:C0010286",
+              "GTOPDB:4496",
+              "CHEBI:16919",
+              "MESH:D003401",
+              "UNII:MU72812GK0",
+              "CAS:1093737-19-9",
+              "CAS:57-00-1",
+              "CHEBI:57947",
+              "PUBCHEM.COMPOUND:586",
+              "HMDB:HMDB0000064",
+              "KEGG.COMPOUND:C00300",
+              "CHEMBL.COMPOUND:CHEMBL283800",
+              "DRUGBANK:DB00148",
+              "INCHIKEY:CVSVTCORWBXHQV-UHFFFAOYSA-N",
+              "DrugCentral:4661"
+            ],
+            "value_type_id": "metatype:uriorcurie",
+            "original_attribute_name": "equivalent_identifiers"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 2,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "rotb"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "CHEBI_ROLE_neuroprotective_agent"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": 2,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "sp2_c"
+          }
+        ]
+      },
+      "MONDO:0007739": {
+        "categories": [
+          "biolink:ThingWithTaxon",
+          "biolink:Disease",
+          "biolink:DiseaseOrPhenotypicFeature",
+          "biolink:BiologicalEntity",
+          "biolink:NamedThing",
+          "biolink:Entity"
+        ],
+        "name": "Huntington disease",
+        "attributes": [
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "MONDO_SUPERCLASS_central_nervous_system_disorder"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "MONDO_SUPERCLASS_nervous_system_disorder"
+          },
+          {
+            "attribute_type_id": "dct:description",
+            "value": "Huntington disease (HD) is a rare neurodegenerative disorder of the central nervous system characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia.",
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "description"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "MONDO_SUPERCLASS_hereditary_disease"
+          },
+          {
+            "attribute_type_id": "biolink:same_as",
+            "value": [
+              "MEDDRA:10070668",
+              "OMIM:143100",
+              "MONDO:0007739",
+              "ICD10:G10",
+              "SNOMEDCT:58756001",
+              "DOID:12858",
+              "MESH:D006816",
+              "MEDDRA:10020469",
+              "UMLS:C0393574",
+              "UMLS:C0020179",
+              "NCIT:C82342",
+              "ICD9:333.4",
+              "UMLS:C0751207",
+              "KEGG.DISEASE:05016",
+              "ORPHANET:399",
+              "SNOMEDCT:230300007"
+            ],
+            "value_type_id": "metatype:uriorcurie",
+            "original_attribute_name": "equivalent_identifiers"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "MONDO_SUPERCLASS_neurodegenerative_disease"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "MONDO_SUPERCLASS_human_disease"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "MONDO_SUPERCLASS_disease"
+          },
+          {
+            "attribute_type_id": "biolink:has_count",
+            "value": 125499,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "omnicorp_article_count"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "MONDO_SUPERCLASS_movement_disorder"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": true,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "MONDO_SUPERCLASS_inherited_neurodegenerative_disorder"
+          }
+        ]
+      }
+    },
+    "edges": {
+      "100498947": {
+        "subject": "PUBCHEM.COMPOUND:586",
+        "object": "MONDO:0007739",
+        "predicate": "biolink:treats",
+        "attributes": [
+          {
+            "attribute_type_id": "biolink:aggregator_knowledge_source",
+            "value": ["infores:automat-robokop"],
+            "value_type_id": "biolink:InformationResource",
+            "original_attribute_name": "biolink:aggregator_knowledge_source",
+            "attribute_source": "infores:automat-robokop"
+          },
+          {
+            "attribute_type_id": "biolink:primary_knowledge_source",
+            "value": "infores:sri-reference-kg",
+            "value_type_id": "biolink:InformationResource",
+            "original_attribute_name": "biolink:primary_knowledge_source",
+            "attribute_source": "infores:automat-robokop"
+          },
+          {
+            "attribute_type_id": "biolink:has_numeric_value",
+            "value": 1,
+            "value_type_id": "EDAM:data_1669",
+            "original_attribute_name": "weight"
+          }
+        ]
+      },
+      "103056677": {
+        "subject": "PUBCHEM.COMPOUND:586",
+        "object": "MONDO:0007739",
+        "predicate": "biolink:treats",
+        "attributes": [
+          {
+            "attribute_type_id": "biolink:has_numeric_value",
+            "value": 1,
+            "value_type_id": "EDAM:data_1669",
+            "original_attribute_name": "weight"
+          },
+          {
+            "attribute_type_id": "biolink:primary_knowledge_source",
+            "value": "infores:textminingkp",
+            "value_type_id": "biolink:InformationResource",
+            "original_attribute_name": "biolink:primary_knowledge_source",
+            "attribute_source": "infores:automat-robokop"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": "0.9993931471111112",
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "biolink:tmkp_confidence_score"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": [
+              "tmkp:896ab8aa8fa4bae2be8ee15228971e400807ff0a5d4ec3abaa2eab6810727c96",
+              "tmkp:a95b30c7866b25e0f03cccaa694727d67f6a47a9b37caa42828075d6fb65c70d",
+              "tmkp:739ff4b9be8c6ae1c242826a22d332b2a802d196487b2a93d3b8f1ddf87b35f8",
+              "tmkp:c86b718010e6dd3511c3903d54795fdc2fdb4e25b4043e7b9e6137ef716a0f2d",
+              "tmkp:2c015ea9796dde274a06aa0523d027cbab06882b5a8cd53fb003ea31adab4098"
+            ],
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "tmkp_ids"
+          },
+          {
+            "attribute_type_id": "biolink:Attribute",
+            "value": "To evaluate the effect of creatine (Cr) supplementation (5 g/day) in Huntington's disease (HD).|PMID:14557561|One of the first groups to investigate the antioxidant properties of creatine was Matthews et al.. Using an animal model of Huntington?s disease, Matthews et al. examined whether creatine could protect against the formation of striatal lesions (tissue damage) in the brain, induced either by intrastriatal injections of malonate or intraperitoneal injections of nitropropionic acid (3-NP); both of which are inducers of neurotoxicity.|PMC7551337|Several studies have suggested that creatine supplementation may also reduce oxidative DNA damage and brain glutamate levels in Huntington disease patients.|PMC3205506|The evidence presented in this review suggests that creatine supplementation improves bioenergetic deficits and may exert neuroprotective effects in Parkinson?s and Huntington?s disease.|PMC2886719|Several studies have investigated the short- and long-term therapeutic benefit of creatine supplementation in animals, children, and adults with various neuromuscular diseases like Huntington?s disease (HD); Parkinson?s disease (PD); mitochondria-related diseases; amyotrophic lateral sclerosis (ALS); spinal and bulbar muscular atrophy; and, muscular dystrophies (MD).|PMC7910963",
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "sentences"
+          },
+          {
+            "attribute_type_id": "biolink:publications",
+            "value": [
+              "PMID:14557561",
+              "PMC7551337",
+              "PMC3205506",
+              "PMC2886719",
+              "PMC7910963"
+            ],
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "publications"
+          },
+          {
+            "attribute_type_id": "biolink:aggregator_knowledge_source",
+            "value": ["infores:automat-robokop"],
+            "value_type_id": "biolink:InformationResource",
+            "original_attribute_name": "biolink:aggregator_knowledge_source",
+            "attribute_source": "infores:automat-robokop"
+          }
+        ]
+      },
+      "122745680": {
+        "subject": "PUBCHEM.COMPOUND:586",
+        "object": "MONDO:0007739",
+        "predicate": "biolink:ameliorates",
+        "attributes": [
+          {
+            "attribute_type_id": "biolink:aggregator_knowledge_source",
+            "value": ["infores:automat-robokop"],
+            "value_type_id": "biolink:InformationResource",
+            "original_attribute_name": "biolink:aggregator_knowledge_source",
+            "attribute_source": "infores:automat-robokop"
+          },
+          {
+            "attribute_type_id": "biolink:primary_knowledge_source",
+            "value": "infores:ctd",
+            "value_type_id": "biolink:InformationResource",
+            "original_attribute_name": "biolink:primary_knowledge_source",
+            "attribute_source": "infores:automat-robokop"
+          },
+          {
+            "attribute_type_id": "biolink:publications",
+            "value": ["PMID:19476553"],
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "publications"
+          },
+          {
+            "attribute_type_id": "biolink:has_numeric_value",
+            "value": 1,
+            "value_type_id": "EDAM:data_1669",
+            "original_attribute_name": "weight"
+          }
+        ]
+      },
+      "2da57147-9043-46dd-9c65-220a3ce379e1": {
+        "subject": "MONDO:0007739",
+        "object": "PUBCHEM.COMPOUND:586",
+        "predicate": "biolink:occurs_together_in_literature_with",
+        "attributes": [
+          {
+            "attribute_type_id": "biolink:has_numeric_value",
+            "value": 1,
+            "value_type_id": "EDAM:data_1669",
+            "original_attribute_name": "weight"
+          },
+          {
+            "attribute_type_id": "biolink:primary_knowledge_source",
+            "value": "infores:omnicorp",
+            "value_type_id": "biolink:InformationResource",
+            "attribute_source": "infores:aragorn"
+          },
+          {
+            "attribute_type_id": "biolink:has_count",
+            "value": 2043,
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "num_publications"
+          }
+        ]
+      }
+    }
+  },
+  "result": {
+    "node_bindings": {
+      "n0": [
+        {
+          "id": "PUBCHEM.COMPOUND:586"
+        }
+      ],
+      "n1": [
+        {
+          "id": "MONDO:0007739",
+          "qnode_id": "MONDO:0007739"
+        }
+      ]
+    },
+    "edge_bindings": {
+      "e0": [
+        {
+          "id": "100498947",
+          "attributes": [
+            {
+              "attribute_type_id": "biolink:has_numeric_value",
+              "value": 0.2794695688557669,
+              "value_type_id": "EDAM:data_1669",
+              "original_attribute_name": "weight",
+              "attributes": [
+                {
+                  "attribute_type_id": "biolink:has_qualitative_value",
+                  "value": "infores:sri-reference-kg",
+                  "value_type_id": "biolink:InformationResource",
+                  "original_attribute_name": "aragorn_weight_source"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "122745680",
+          "attributes": [
+            {
+              "attribute_type_id": "biolink:has_numeric_value",
+              "value": 0.5184467655944169,
+              "value_type_id": "EDAM:data_1669",
+              "original_attribute_name": "weight",
+              "attributes": [
+                {
+                  "attribute_type_id": "biolink:has_qualitative_value",
+                  "value": "infores:ctd",
+                  "value_type_id": "biolink:InformationResource",
+                  "original_attribute_name": "aragorn_weight_source"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "103056677",
+          "attributes": [
+            {
+              "attribute_type_id": "biolink:has_numeric_value",
+              "value": 0.9381800955735429,
+              "value_type_id": "EDAM:data_1669",
+              "original_attribute_name": "weight",
+              "attributes": [
+                {
+                  "attribute_type_id": "biolink:has_qualitative_value",
+                  "value": "infores:textminingkp",
+                  "value_type_id": "biolink:InformationResource",
+                  "original_attribute_name": "aragorn_weight_source"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "s189": [
+        {
+          "id": "2da57147-9043-46dd-9c65-220a3ce379e1",
+          "attributes": [
+            {
+              "attribute_type_id": "biolink:has_numeric_value",
+              "value": 0.8420118657005056,
+              "value_type_id": "EDAM:data_1669",
+              "original_attribute_name": "weight",
+              "attributes": [
+                {
+                  "attribute_type_id": "biolink:has_qualitative_value",
+                  "value": "infores:omnicorp",
+                  "value_type_id": "biolink:InformationResource",
+                  "original_attribute_name": "aragorn_weight_source"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "score": 2.5818946373633804
+  }
+}

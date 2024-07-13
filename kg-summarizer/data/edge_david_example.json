@@ -1,0 +1,64 @@
+{
+    "nodes": {
+        "PUBCHEM.COMPOUND:6018": {
+            "name": "Tetrabenazine",
+            "description": "A benzoquinolizine that is 1,2,3,4,4a,9,10,10a-octahydrophenanthrene in which the carbon at position 10a is replaced by a nitrogen and which is substituted by an isobutyl group at position 2, an oxo group at position 3, and methoxy groups at positions 6 and 7.",
+            "same_as": [
+                "MESH:D013747",
+                "CAS:718635-93-9",
+                "HMDB:HMDB0015592",
+                "KEGG.COMPOUND:C11168",
+                "GTOPDB:4834",
+                "PUBCHEM.COMPOUND:6018",
+                "CHEMBL.COMPOUND:CHEMBL117785",
+                "DRUGBANK:DB04844",
+                "CHEBI:64028",
+                "UNII:Z9O08YRN8O",
+                "UMLS:C0039623",
+                "INCHIKEY:MKJIEFSOBYUXJB-UHFFFAOYSA-N",
+                "CAS:58-46-8",
+                "CHEBI:9467"
+            ],
+            "smiles": ""
+        },
+        "MONDO:0007739": {
+            "name": "Huntington disease",
+            "description": "Huntington disease (HD) is a rare neurodegenerative disorder of the central nervous system characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia.",
+            "same_as": [
+                "MEDDRA:10070668",
+                "ICD10:G10",
+                "ICD9:333.4",
+                "DOID:12858",
+                "SNOMEDCT:58756001",
+                "KEGG.DISEASE:05016",
+                "UMLS:C0751207",
+                "UMLS:C0020179",
+                "NCIT:C82342",
+                "OMIM:143100",
+                "UMLS:C0393574",
+                "MESH:D006816",
+                "SNOMEDCT:230300007",
+                "MONDO:0007739",
+                "ORPHANET:399",
+                "MEDDRA:10020469"
+            ],
+            "smiles": ""
+        }
+    },
+    "edge": {
+        "subject": "PUBCHEM.COMPOUND:6018",
+        "object": "MONDO:0007739",
+        "predicate": "biolink:treats",
+        "publications": [
+            "PMC:4557792",
+            "PMID:29920125",
+            "PMID:30136594",
+            "PMID:19050408",
+            "PMID:28742396",
+            "PMID:19381278",
+            "PMID:22621818",
+            "PMID:2901681"
+        ],
+        "sentences": "Valbenazine is a modified metabolite of the vesicular monoamine transporter 2 (VMAT-2) inhibitor tetrabenazine, which is approved for the treatment of the hyperkinetic movement disorder, Huntington's disease.|NA|This deuterated form of the drug tetrabenazine is indicated for the treatment of chorea associated with Huntington's disease as well as tardive dyskinesia.|NA|For example, in 2008 the FDA approved the synthetic VMAT2 inhibitor tetrabenazine (TBZ) for treatment of chorea associated with Huntington?s disease.|NA"
+    }
+}

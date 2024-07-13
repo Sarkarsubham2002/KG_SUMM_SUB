@@ -1,0 +1,111 @@
+{
+    "id": "103056677",
+    "source": {
+        "x": 485.74999999999983,
+        "y": 160.36327881061067,
+        "id": "PUBCHEM.COMPOUND:586",
+        "name": "Creatine",
+        "categories": [
+            "biolink:ChemicalOrDrugOrTreatment",
+            "biolink:ChemicalEntityOrProteinOrPolypeptide",
+            "biolink:ChemicalEntityOrGeneOrGeneProduct",
+            "biolink:PhysicalEssence",
+            "biolink:PhysicalEssenceOrOccurrent",
+            "biolink:SmallMolecule",
+            "biolink:MolecularEntity",
+            "biolink:ChemicalEntity",
+            "biolink:NamedThing",
+            "biolink:Entity"
+        ],
+        "qg_id": "n0",
+        "is_set": false,
+        "score": null,
+        "index": 0,
+        "vy": 7.589468802309045e-10,
+        "vx": 9.718731623044737e-16
+    },
+    "target": {
+        "x": 310.7500000000002,
+        "y": 160.36328368938933,
+        "id": "MONDO:0007739",
+        "name": "Huntington disease",
+        "categories": [
+            "biolink:ThingWithTaxon",
+            "biolink:Disease",
+            "biolink:DiseaseOrPhenotypicFeature",
+            "biolink:BiologicalEntity",
+            "biolink:NamedThing",
+            "biolink:Entity"
+        ],
+        "qg_id": "n1",
+        "is_set": false,
+        "score": null,
+        "index": 1,
+        "vy": -7.589468802309045e-10,
+        "vx": -9.718731623044737e-16
+    },
+    "predicate": "biolink:treats",
+    "attributes": [
+        {
+            "attribute_type_id": "biolink:has_numeric_value",
+            "value": 1,
+            "value_type_id": "EDAM:data_1669",
+            "original_attribute_name": "weight"
+        },
+        {
+            "attribute_type_id": "biolink:primary_knowledge_source",
+            "value": "infores:textminingkp",
+            "value_type_id": "biolink:InformationResource",
+            "original_attribute_name": "biolink:primary_knowledge_source",
+            "attribute_source": "infores:automat-robokop"
+        },
+        {
+            "attribute_type_id": "biolink:Attribute",
+            "value": "0.9993931471111112",
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "biolink:tmkp_confidence_score"
+        },
+        {
+            "attribute_type_id": "biolink:Attribute",
+            "value": [
+                "tmkp:896ab8aa8fa4bae2be8ee15228971e400807ff0a5d4ec3abaa2eab6810727c96",
+                "tmkp:a95b30c7866b25e0f03cccaa694727d67f6a47a9b37caa42828075d6fb65c70d",
+                "tmkp:739ff4b9be8c6ae1c242826a22d332b2a802d196487b2a93d3b8f1ddf87b35f8",
+                "tmkp:c86b718010e6dd3511c3903d54795fdc2fdb4e25b4043e7b9e6137ef716a0f2d",
+                "tmkp:2c015ea9796dde274a06aa0523d027cbab06882b5a8cd53fb003ea31adab4098"
+            ],
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "tmkp_ids"
+        },
+        {
+            "attribute_type_id": "biolink:Attribute",
+            "value": "To evaluate the effect of creatine (Cr) supplementation (5 g/day) in Huntington's disease (HD).|PMID:14557561|One of the first groups to investigate the antioxidant properties of creatine was Matthews et al.. Using an animal model of Huntington?s disease, Matthews et al. examined whether creatine could protect against the formation of striatal lesions (tissue damage) in the brain, induced either by intrastriatal injections of malonate or intraperitoneal injections of nitropropionic acid (3-NP); both of which are inducers of neurotoxicity.|PMC7551337|Several studies have suggested that creatine supplementation may also reduce oxidative DNA damage and brain glutamate levels in Huntington disease patients.|PMC3205506|The evidence presented in this review suggests that creatine supplementation improves bioenergetic deficits and may exert neuroprotective effects in Parkinson?s and Huntington?s disease.|PMC2886719|Several studies have investigated the short- and long-term therapeutic benefit of creatine supplementation in animals, children, and adults with various neuromuscular diseases like Huntington?s disease (HD); Parkinson?s disease (PD); mitochondria-related diseases; amyotrophic lateral sclerosis (ALS); spinal and bulbar muscular atrophy; and, muscular dystrophies (MD).|PMC7910963",
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "sentences"
+        },
+        {
+            "attribute_type_id": "biolink:publications",
+            "value": [
+                "PMID:14557561",
+                "PMC7551337",
+                "PMC3205506",
+                "PMC2886719",
+                "PMC7910963"
+            ],
+            "value_type_id": "EDAM:data_0006",
+            "original_attribute_name": "publications"
+        },
+        {
+            "attribute_type_id": "biolink:aggregator_knowledge_source",
+            "value": [
+                "infores:automat-robokop"
+            ],
+            "value_type_id": "biolink:InformationResource",
+            "original_attribute_name": "biolink:aggregator_knowledge_source",
+            "attribute_source": "infores:automat-robokop"
+        }
+    ],
+    "index": -1,
+    "numEdges": 4,
+    "strokeWidth": "3"
+}

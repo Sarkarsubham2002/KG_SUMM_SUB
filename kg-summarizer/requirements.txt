@@ -1,0 +1,8 @@
+openai==0.28.1
+tiktoken
+python-dotenv
+fastapi
+pydantic
+jupyter
+reasoner-pydantic
+uvicorn
